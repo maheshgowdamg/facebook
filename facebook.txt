@@ -2,3 +2,5 @@ username
 password
 email
 number
+submit
+reset
